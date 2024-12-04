@@ -1,4 +1,4 @@
-<div align="center">
+sdsds<div align="center">
   <picture>
     <img src="./noir-logo.png" alt="The Noir Programming Language" width="35%">
   </picture>
@@ -37,6 +37,8 @@ The current focus is to gather as much feedback as possible while in the alpha p
 This workspace's minimum supported rustc version is 1.74.1.
 
 ## License
+
+Some parts of this code are based on https://github.com/software-mansion/scarb. Thanks to them for their work.
 
 Noir is free and open source. It is distributed under a dual license. (MIT/APACHE)
 
